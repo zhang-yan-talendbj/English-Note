@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Generating repetition history subsets
+   Collection: D:\Program Files\supermemo\SuperMemo\systems\bruce
+   Date: Friday, 28 September 2012, 2:13:29 PM
+   SuperMemo 15 (Build 15.1, Aug 12, 2011)
+
+
+Process completed at 2:13:29 PM in 00:00:00 sec (Friday, 28 September 2012)
+
+NO ERRORS (Generating repetition history subsets)
+
+____________________________________________________________
