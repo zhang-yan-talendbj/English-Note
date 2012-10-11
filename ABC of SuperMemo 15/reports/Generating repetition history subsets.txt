@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Generating repetition history subsets
+   Collection: D:\学习软件\SuperMemo\systems\ABC of SuperMemo 15
+   Date: 2011年8月16日, 8:05:36
+   SuperMemo 15 (Build 15.1, Aug 12, 2011)
+
+
+Process completed at 8:05:36 in 00:00:00 sec (2011年8月16日)
+
+NO ERRORS (Generating repetition history subsets)
+
+____________________________________________________________
