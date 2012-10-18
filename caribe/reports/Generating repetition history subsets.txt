@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Generating repetition history subsets
+   Collection: D:\BRUCE\AIA\DEPP\MAVEN\ENGLISH\WORD\ENGLISH-NOTE\caribe
+   Date: Thursday, 18 October 2012, 10:00:34 AM
+   SuperMemo 15 (Build 15.1, Aug 12, 2011)
+
+
+Process completed at 10:00:34 AM in 00:00:00 sec (Thursday, 18 October 2012)
+
+NO ERRORS (Generating repetition history subsets)
+
+____________________________________________________________
