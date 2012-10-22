@@ -1,0 +1,13 @@
+SuperMemo Report
+   Activity: Collecting retention data
+   Collection: D:\BRUCE\AIA\DEPP\MAVEN\ENGLISH\WORD\ENGLISH-NOTE\inputMethod
+   Date: Monday, 22 October 2012, 3:38:51 PM
+   SuperMemo 15 (Build 15.1, Aug 12, 2011)
+
+Retention data errors can be ignored
+
+Process completed at 3:38:51 PM in 00:00:00 sec (Monday, 22 October 2012)
+
+NO ERRORS (Collecting retention data)
+
+____________________________________________________________
