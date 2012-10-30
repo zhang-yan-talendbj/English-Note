@@ -1,0 +1,19 @@
+SuperMemo Report
+   Activity: Collection integrity check and repairs
+   Collection: D:\BRUCE\AIA\DEPP\MAVEN\ENGLISH\WORD\ENGLISH-NOTE\INPUTMETHOD
+   Date: Tuesday, 30 October 2012, 4:22:02 PM
+   SuperMemo 15 (Build 15.1, Aug 12, 2011)
+
+Checking 2 records
+Verifying integrity of element data (2 elements in elinfo.dat)
+Verifying contents.dat (2 elements)
+Verifying the priority queue of 2 elements
+Verifying repetition schedule (Workload.dat and ElInfo.dat)
+Verifying pending queue (intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+
+Process completed at 4:22:02 PM in 00:00:00 sec (Tuesday, 30 October 2012)
+
+NO ERRORS (Collection integrity check and repairs)
+
+____________________________________________________________
