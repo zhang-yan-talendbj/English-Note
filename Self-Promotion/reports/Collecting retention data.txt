@@ -1,0 +1,13 @@
+SuperMemo Report
+   Activity: Collecting retention data
+   Collection: D:\BRUCE\AIA\DEPP\MAVEN\ENGLISH\WORD\ENGLISH-NOTE\Self-Promotion
+   Date: Wednesday, 14 November 2012, 11:42:04 AM
+   SuperMemo 15 (Build 15.1, Aug 12, 2011)
+
+Retention data errors can be ignored
+
+Process completed at 11:42:04 AM in 00:00:00 sec (Wednesday, 14 November 2012)
+
+NO ERRORS (Collecting retention data)
+
+____________________________________________________________
